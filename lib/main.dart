@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'instant chat',
+      title: 'instant chat ',
       theme: ThemeData(
          
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
