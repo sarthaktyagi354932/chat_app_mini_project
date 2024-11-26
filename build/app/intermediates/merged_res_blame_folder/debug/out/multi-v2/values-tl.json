@@ -4,7 +4,7 @@
             "outputFile": "com.example.chat_app_mini_project.app-mergeDebugResources-34:/values-tl/values-tl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\46a75fb0e5bd8465c0a9093929760c97\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-tl\\values.xml",
+                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\0aea70cae49ccaaa0ae0c3e2b6123dbb\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-tl\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\ecf70aa478b8d1f83fbe47b072e4ae7c\\transformed\\core-1.13.1\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\d12073858ce2e90df370f44d158bfcf7\\transformed\\core-1.13.1\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\e870cb056cc781dca748e27d640606b3\\transformed\\browser-1.8.0\\res\\values-tl\\values-tl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,158,263,374",
-                        "endColumns": "102,104,110,104",
-                        "endOffsets": "153,258,369,474"
-                    },
-                    "to": {
-                        "startLines": "27,28,29,30",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "3151,3254,3359,3470",
-                        "endColumns": "102,104,110,104",
-                        "endOffsets": "3249,3354,3465,3570"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\45e90a3602135b89a6e66f5aa2cd0620\\transformed\\jetified-play-services-base-18.0.1\\res\\values-tl\\values.xml",
+                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\d01734d69df21b161c18002dfd0713f4\\transformed\\jetified-play-services-base-18.0.1\\res\\values-tl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -69,6 +52,23 @@
                         "startOffsets": "789,896,1072,1210,1319,1477,1613,1735,1993,2172,2279,2457,2595,2757,2936,3004,3070",
                         "endColumns": "106,175,137,108,157,135,121,112,178,106,177,137,161,178,67,65,80",
                         "endOffsets": "891,1067,1205,1314,1472,1608,1730,1843,2167,2274,2452,2590,2752,2931,2999,3065,3146"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sarthak Tyagi\\.gradle\\caches\\transforms-3\\5702d2648c8d0d1a68808c66ecfd70d0\\transformed\\browser-1.8.0\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,158,263,374",
+                        "endColumns": "102,104,110,104",
+                        "endOffsets": "153,258,369,474"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3151,3254,3359,3470",
+                        "endColumns": "102,104,110,104",
+                        "endOffsets": "3249,3354,3465,3570"
                     }
                 }
             ]

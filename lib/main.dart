@@ -26,8 +26,8 @@ class MyApp extends StatelessWidget {
       ),
 
       routes:{
-        // "/":(context) => PhoneLogin(),
-         "/":(context) => HomePage(),
+        "/":(context) => PhoneLogin(),
+        //  "/":(context) => HomePage(),
 
         "/home": (context) => HomePage(),
         "/chat": (context) => ChatPage(),

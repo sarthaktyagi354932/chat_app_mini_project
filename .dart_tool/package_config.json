@@ -603,7 +603,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/Sarthak%20Tyagi/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.4",
+      "rootUri": "file:///C:/Users/Sarthak%20Tyagi/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -662,10 +662,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-11-24T03:56:32.824603Z",
+  "generated": "2024-11-26T06:01:30.198543Z",
   "generator": "pub",
-  "generatorVersion": "3.5.0",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///D:/flutter/flutter",
-  "flutterVersion": "3.24.0",
+  "flutterVersion": "3.24.6-0.0.pre.2",
   "pubCache": "file:///C:/Users/Sarthak%20Tyagi/AppData/Local/Pub/Cache"
 }
